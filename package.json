@@ -1,0 +1,25 @@
+{
+  "name": "comp308-w2017-lesson02",
+  "version": "1.0.0",
+  "description": "Connect Server Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedb7/comp308-w2017-Lesson2.git"
+  },
+  "keywords": [
+    "Connect",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Benzir Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedb7/comp308-w2017-Lesson2/issues"
+  },
+  "homepage": "https://github.com/ahmedb7/comp308-w2017-Lesson2#readme"
+}
