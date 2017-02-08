@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ahmedb7/comp308-w2017-Lesson2/issues"
   },
-  "homepage": "https://github.com/ahmedb7/comp308-w2017-Lesson2#readme"
+  "homepage": "https://github.com/ahmedb7/comp308-w2017-Lesson2#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
 }
